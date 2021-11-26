@@ -1,6 +1,7 @@
 # TaskManager
 <img src="Images/TaskManager.png" width=100% height=70%>
-## Usage
+
+** Usage
 
 ### Install dependencies
 
